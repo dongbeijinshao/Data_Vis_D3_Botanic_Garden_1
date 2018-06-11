@@ -26,7 +26,7 @@ Challenges
 * The dataset we worked with was extremely sparse; there were many missing values for species across different years, making it difficult to to analyze their growth rate. Additionally, many of the variables were ordinal, making it difficult to accurately depict their ordering accurately
 
 2. Design Challenge
-* Our target audience consisted of multiple groups: the Chicago Botanic Garden, land managers and volunteers; creating a coherent visualization system which accommodated each group’s needs proved challenging
+* Our target audience consisted of multiple groups: the Botanic Garden, land managers and volunteers; creating a coherent visualization system which accommodated each group’s needs proved challenging
 
 3. Software Limitations
 * The chart types in Tableau are limited and in order to utilize the flexibility of D3, we had to deploy and embed our D3 visualizations to our Tableau dashboard.
@@ -73,9 +73,15 @@ KEY INSIGHTS
 ---------------
 * We observed a steady increase in plant population since the initiation of the plants of concern project, indicating the project has been impactful.
 * The similarity between sites near the lake are higher than the ones between inland sites, suggesting that sites in close proximity to the lake should collaborate in plant management decisions.
-* Areas further away from Chicago are more susceptible to burning and therefore volunteers should closely monitor these populations and look for signs of burning in dry and extreme weather conditions.
+* Areas further away are more susceptible to burning and therefore volunteers should closely monitor these populations and look for signs of burning in dry and extreme weather conditions.
 * Sites near the lake are candidates for erosion; land managers should be particularly mindful of these plant populations and communicate this with volunteers who monitor these areas 
 
+IMPACT
+---------
+* Develop an understanding of regional plant diversity.
+* Identify potential threats in rare plant population.
+* Visualize rare species’ population trends in relation to management activities on a region-wide basis.
+* Allow land managers to inform management planning decisions.
 
 
 
