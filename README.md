@@ -34,25 +34,25 @@ Challenges
 Implementation
 --------------
 1. Graphs/Diagrams:
-⋅⋅1. Forced Directed Graph
+* Forced Directed Graph
+* Network Map
+* Population Map
+* Hierarchical Edge Bundling
+* Bubble Chart
+* Scatter Plot
+* Bar Chart
+* Area Chart
 
-Forced Directed Graph
-Network Map
-Population Map
-Hierarchical Edge Bundling
-Bubble Chart
-Scatter Plot
-Bar Chart
-Area Chart
-Tools: 
-Tableau 
-D3
-Integration between Tableau and D3
-Filters:
-Location
-Time
-Species
-Threats
+2. Tools: 
+* Tableau 
+* D3
+* Integration between Tableau and D3
+
+3. Filters:
+* Location
+* Time
+* Species
+* Threats
 
 
 
