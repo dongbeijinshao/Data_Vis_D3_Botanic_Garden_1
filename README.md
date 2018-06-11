@@ -54,6 +54,27 @@ Implementation
 * Species
 * Threats
 
+DESIGN CHOICES - OVERALL
+--------------------------
+1. Visual encodings + Gestalt principles
+* Line/Area - used across all visualizations to represent population size/plant diversity
+* Color - emphasize the severity to which species are affected by specific threats or management activities
+* Color/similarity - group species and sites at a higher level
+* Connectedness/Proximity - showcase counties with similar species
+
+2. Animated Transitions
+* Allow smooth visualizations to show changes over time
+
+3. Aggregation/Filtering
+* Analyze a species across different dimensions & levels
+* Focus on a subset of data and analyze trends
+
+KEY INSIGHTS
+---------------
+* We observed a steady increase in plant population since the initiation of the plants of concern project, indicating the project has been impactful.
+* The similarity between sites near the lake are higher than the ones between inland sites, suggesting that sites in close proximity to the lake should collaborate in plant management decisions.
+* Areas further away from Chicago are more susceptible to burning and therefore volunteers should closely monitor these populations and look for signs of burning in dry and extreme weather conditions.
+* Sites near the lake are candidates for erosion; land managers should be particularly mindful of these plant populations and communicate this with volunteers who monitor these areas 
 
 
 
