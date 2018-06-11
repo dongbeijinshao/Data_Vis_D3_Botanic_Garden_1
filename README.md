@@ -23,13 +23,37 @@ Approach & Design Process
 Challenges
 --------------
 1. Data Challenge
-The dataset we worked with was extremely sparse; there were many missing values for species across different years, making it difficult to to analyze their growth rate. Additionally, many of the variables were ordinal, making it difficult to accurately depict their ordering accurately
+* The dataset we worked with was extremely sparse; there were many missing values for species across different years, making it difficult to to analyze their growth rate. Additionally, many of the variables were ordinal, making it difficult to accurately depict their ordering accurately
 
 2. Design Challenge
-Our target audience consisted of multiple groups: the Chicago Botanic Garden, land managers and volunteers; creating a coherent visualization system which accommodated each group’s needs proved challenging
+* Our target audience consisted of multiple groups: the Chicago Botanic Garden, land managers and volunteers; creating a coherent visualization system which accommodated each group’s needs proved challenging
 
 3. Software Limitations
-The chart types in Tableau are limited and in order to utilize the flexibility of D3, we had to deploy and embed our D3 visualizations to our Tableau dashboard.
+* The chart types in Tableau are limited and in order to utilize the flexibility of D3, we had to deploy and embed our D3 visualizations to our Tableau dashboard.
+
+Implementation
+--------------
+1. Graphs/Diagrams:
+⋅⋅1. Forced Directed Graph
+
+Forced Directed Graph
+Network Map
+Population Map
+Hierarchical Edge Bundling
+Bubble Chart
+Scatter Plot
+Bar Chart
+Area Chart
+Tools: 
+Tableau 
+D3
+Integration between Tableau and D3
+Filters:
+Location
+Time
+Species
+Threats
+
 
 
 
