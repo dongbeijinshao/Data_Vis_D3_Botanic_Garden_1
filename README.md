@@ -3,3 +3,13 @@
 * Maintains a centralized database of rare plant information.
 * Analyses of POC’s datasets yield critical information on rare species’ population trends in relation to management activities on a region-wide basis.
 * POC has worked with over 100 public and private landowners. For their participation, these landowners receive critical data that helps them set goals and evaluate land management practices.
+
+TARGET AUDIENCE
+--------------
+* Our visualizations allow the Chicago Botanic Garden, land managers, and volunteers to quickly analyze trends of rare plant populations 
+
+PROJECT PURPOSE
+--------------
+* The Chicago Botanic Garden can use the dashboards to get a high level overview of the species in the program and identify common factors that impact plants across different sites
+* Land managers can use the dashboards to compare their plant populations to other sites and species and inform their management planning decisions
+* Volunteers can use these visualizations to gain better insight into what to look for when monitoring the plants
